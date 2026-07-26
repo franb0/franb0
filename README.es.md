@@ -7,8 +7,6 @@
   <a href="./README.zh-CN.md">🇨🇳 中文</a>
 </p>
 
-<img src="./assets/avatar.png" width="180" alt="Avatar de electrónica en 8 bits">
-
 # `franb0`
 
 ### Señales → Circuitos → Código
