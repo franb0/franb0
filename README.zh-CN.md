@@ -7,7 +7,6 @@
   <strong>🇨🇳 中文</strong>
 </p>
 
-<img src="./assets/avatar.png" width="180" alt="8 位像素风电子头像">
 
 # `franb0`
 
