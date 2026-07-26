@@ -7,7 +7,6 @@
   <a href="./README.zh-CN.md">🇨🇳 中文</a>
 </p>
 
-<img src="./assets/avatar.png" width="180" alt="Avatar elettronico in stile 8-bit">
 
 # `franb0`
 
