@@ -7,7 +7,7 @@
   <a href="./README.zh-CN.md">🇨🇳 中文</a>
 </p>
 
-# `franb0`
+# `Francesco Boito`
 
 ### Señales → Circuitos → Código
 
