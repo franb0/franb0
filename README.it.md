@@ -8,7 +8,7 @@
 </p>
 
 
-# `franb0`
+# `Francesco Boito`
 
 ### Segnali → Circuiti → Codice
 
