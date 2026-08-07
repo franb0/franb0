@@ -8,7 +8,7 @@
 </p>
 
 
-# `franb0`
+# `Francesco Boito`
 
 ### 信号 → 电路 → 代码
 
